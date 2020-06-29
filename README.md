@@ -3,15 +3,21 @@
 A simple Java project with Docker.
 
 
-## 🔖 Table of Contents
+## Table of Contents
 
-- [_Technology_](#-technology)
-- [_Roadmap_](#-roadmap)
-- [_How to contribute_](#-how-to-contribute)
-- [_License_](#-license)
+- [_About the Project_](#about-the-project)
+- [_Technology_](#technology)
+- [_Roadmap_](#roadmap)
+- [_How to contribute_](#how-to-contribute)
+- [_License_](#license)
 
 
-## 🚀 Technology 
+## About the Project
+
+A simple project to test Docker with Jenkins.
+
+
+## Technology 
 
 This project was developed with the following technologies:
 
@@ -20,12 +26,12 @@ This project was developed with the following technologies:
 - [Docker](https://www.docker.com/)
 
 
-## 🔺 Roadmap
+## Roadmap
 
 See the [open issues](https://github.com/WesGtoX/DemoProject/issues) for a list of proposed features (and known issues).
 
 
-## 🤔 How to contribute
+## How to contribute
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -38,10 +44,10 @@ Contributions are what make the open source community such an amazing place to b
 After the merge of your pull request is done, you can delete your branch.  
 
 
-## 📝 License
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
 
 ---
 
-Made with ♥ by [Wesley Mendes](https://wesleymends.com.br/) :wave:
+Made with ♥ by [Wesley Mendes](https://wesleymends.com.br/)
